@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lighting Craft | Architectural Lighting, Electrical Infrastructure & Civil Works</title>
   
-  <!-- Open Graph / Social & WhatsApp Preview -->
+  <!-- Open Graph Meta Tags -->
   <meta property="og:title" content="Lighting Craft | Engineering & Infrastructure">
   <meta property="og:description" content="Architectural lighting, turnkey electrical contracting, and civil infrastructure backed by 25+ years of certified craftsmanship.">
   <meta property="og:type" content="website">
@@ -31,15 +31,6 @@
       background: linear-gradient(135deg, #f59e0b 0%, #fbbf24 50%, #d97706 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
-    }
-    /* Native Mobile-Safe Calendar Picker Indicators */
-    input[type="date"]::-webkit-calendar-picker-indicator {
-      filter: invert(0.8) sepia(1) saturate(5) hue-rotate(5deg);
-      cursor: pointer;
-      opacity: 0.9;
-    }
-    input[type="date"] {
-      color-scheme: dark;
     }
   </style>
 </head>
@@ -199,4 +190,226 @@
         </div>
 
         <div class="p-6 rounded-xl bg-[#121822] border border-white/5">
-          <div class="
+          <div class="text-amber-400 font-mono text-sm font-bold mb-1">Heavy Industrial Pedigree</div>
+          <div class="text-white font-semibold text-sm">Saudi Aramco & Mitsubishi Consortium</div>
+          <p class="text-xs text-slate-400 mt-2">Qurayyah Power Plant and Al-Wasia Stabilizer industrial standards.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FLAGSHIP PORTFOLIO -->
+  <section id="portfolio" class="py-24 px-6 max-w-7xl mx-auto">
+    <div class="text-center mb-16">
+      <h2 class="font-cinzel text-amber-400 text-xs tracking-[0.3em] uppercase mb-2">Proven Track Record</h2>
+      <h3 class="text-3xl sm:text-4xl font-bold text-white">Flagship Projects</h3>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+      <div class="p-6 rounded-2xl bg-[#121822] border border-white/10 hover:border-amber-500/30 transition-all">
+        <span class="text-[10px] uppercase font-bold text-amber-400 tracking-wider">Luxury Residential</span>
+        <h4 class="text-xl font-bold text-white mt-1 mb-3">Nikhil Dwivedi Residence</h4>
+        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+          Actor's private residence. Custom concealed cove lighting, architectural mood scenes, zero exposed wiring, and luxury switchgear.
+        </p>
+        <span class="text-[11px] text-slate-500 font-mono">Bespoke Architectural Wiring</span>
+      </div>
+
+      <div class="p-6 rounded-2xl bg-[#121822] border border-white/10 hover:border-amber-500/30 transition-all">
+        <span class="text-[10px] uppercase font-bold text-amber-400 tracking-wider">Commercial Creative</span>
+        <h4 class="text-xl font-bold text-white mt-1 mb-3">Saffron Magicworks</h4>
+        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+          Creative studio fit-out. Task illumination for digital workstations, dedicated DB panel dressing, and clean cable distribution.
+        </p>
+        <span class="text-[11px] text-slate-500 font-mono">Turnkey Studio Infrastructure</span>
+      </div>
+
+      <div class="p-6 rounded-2xl bg-[#121822] border border-white/10 hover:border-amber-500/30 transition-all">
+        <span class="text-[10px] uppercase font-bold text-amber-400 tracking-wider">Fitness & Wellness</span>
+        <h4 class="text-xl font-bold text-white mt-1 mb-3">Body Sculpture (Khar)</h4>
+        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+          Premium fitness studio. Heavy-duty power lines for high-load commercial workout equipment, zoned accent lighting, and HVAC integration.
+        </p>
+        <span class="text-[11px] text-slate-500 font-mono">Commercial Load Distribution</span>
+      </div>
+
+      <div class="p-6 rounded-2xl bg-[#121822] border border-white/10 hover:border-amber-500/30 transition-all">
+        <span class="text-[10px] uppercase font-bold text-amber-400 tracking-wider">Society Maintenance</span>
+        <h4 class="text-xl font-bold text-white mt-1 mb-3">Meadow Park Society</h4>
+        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+          8 consecutive years of facility maintenance (2002–2010). Managed incoming main feeds, water pump controls, lift interfaces, and society lighting.
+        </p>
+        <span class="text-[11px] text-slate-500 font-mono">8-Year Continuous Contract</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- LEADERSHIP & SUPERVISION -->
+  <section id="team" class="py-20 px-6 max-w-7xl mx-auto border-t border-white/10">
+    <div class="text-center mb-16">
+      <h2 class="font-cinzel text-amber-400 text-xs tracking-[0.3em] uppercase mb-2">Leadership & Supervision</h2>
+      <h3 class="text-3xl sm:text-4xl font-bold text-white">Direct Management</h3>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+      <div class="p-8 rounded-2xl bg-[#121822] border border-white/10">
+        <h4 class="text-amber-400 font-bold text-sm uppercase tracking-wider mb-4">Project Management & Dispatch</h4>
+        <div class="space-y-4">
+          <div class="flex justify-between items-center border-b border-white/5 pb-3">
+            <div>
+              <div class="font-bold text-white">Arbaz Shaikh</div>
+              <div class="text-xs text-slate-400">Co-Founder & Director</div>
+            </div>
+            <a href="tel:+919505552202" class="text-xs text-amber-400 font-mono hover:underline">+91 95055 52202</a>
+          </div>
+          <div class="flex justify-between items-center">
+            <div>
+              <div class="font-bold text-white">Kashif Shaikh</div>
+              <div class="text-xs text-slate-400">Co-Founder & Director</div>
+            </div>
+            <a href="tel:+919167006657" class="text-xs text-amber-400 font-mono hover:underline">+91 91670 06657</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="p-8 rounded-2xl bg-[#121822] border border-white/10">
+        <h4 class="text-amber-400 font-bold text-sm uppercase tracking-wider mb-4">On-Site Technical Supervision</h4>
+        <div class="space-y-4">
+          <div class="border-b border-white/5 pb-3">
+            <div class="font-bold text-white">Feroz &amp; Idries</div>
+            <div class="text-xs text-slate-400">Senior Field Engineers • 27 Years Combined Experience</div>
+          </div>
+          <div class="flex justify-between items-center">
+            <div>
+              <div class="font-bold text-white">10-Member Technical Crew</div>
+              <div class="text-xs text-slate-400">Full Electrical, Civil & Renovation Field Team</div>
+            </div>
+            <span class="text-xs text-amber-400/80 font-mono">Central Dispatch</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- BOOKING SECTION -->
+  <section id="book" class="py-24 px-6 border-t border-white/10 bg-[#0e141c]/70 relative">
+    <div class="max-w-3xl mx-auto">
+      <div class="text-center mb-12">
+        <h2 class="font-cinzel text-amber-400 text-xs tracking-[0.3em] uppercase mb-2">Direct Booking</h2>
+        <h3 class="text-3xl sm:text-4xl font-bold text-white mb-3">Request On-Site Assessment</h3>
+        <p class="text-slate-400 text-sm">Schedule a direct site evaluation with our engineering team.</p>
+      </div>
+
+      <form id="bookingForm" class="p-8 sm:p-10 rounded-2xl bg-[#121822] border border-white/10 shadow-2xl space-y-6">
+        <div>
+          <label class="block text-xs uppercase font-semibold text-slate-300 mb-2">Full Name</label>
+          <input required type="text" id="clientName" placeholder="e.g. Rahul Sharma" class="w-full px-4 py-3 rounded-lg bg-[#0b0f14] border border-white/10 focus:border-amber-400 text-white text-sm outline-none transition-all">
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+          <div>
+            <label class="block text-xs uppercase font-semibold text-slate-300 mb-2">Phone Number</label>
+            <input required type="tel" id="clientPhone" placeholder="+91 XXXXX XXXXX" class="w-full px-4 py-3 rounded-lg bg-[#0b0f14] border border-white/10 focus:border-amber-400 text-white text-sm outline-none transition-all">
+          </div>
+          <div>
+            <label class="block text-xs uppercase font-semibold text-slate-300 mb-2">Preferred Visit Date</label>
+            <input 
+              required 
+              type="text" 
+              id="inspectionDate" 
+              placeholder="e.g. 28 Oct 2026 or Tomorrow" 
+              class="w-full px-4 py-3 rounded-lg bg-[#0b0f14] border border-white/10 focus:border-amber-400 text-white text-sm outline-none transition-all min-h-[48px]"
+            >
+          </div>
+        </div>
+
+        <div>
+          <label class="block text-xs uppercase font-semibold text-slate-300 mb-2">Project Vertical</label>
+          <select id="serviceType" class="w-full px-4 py-3 rounded-lg bg-[#0b0f14] border border-white/10 focus:border-amber-400 text-white text-sm outline-none transition-all">
+            <option>Architectural & Ambient Lighting (Cove/Track/Smart)</option>
+            <option>Electrical Infrastructure & DB Dressing</option>
+            <option>Commercial Studio / Office Fit-Out</option>
+            <option>Room & Space Modernization / Renovation</option>
+            <option>Building & Civil Construction</option>
+          </select>
+        </div>
+
+        <div>
+          <label class="block text-xs uppercase font-semibold text-slate-300 mb-2">Site Location / Address</label>
+          <input required type="text" id="siteAddress" placeholder="Street, Area, City (Mumbai / Hyderabad)" class="w-full px-4 py-3 rounded-lg bg-[#0b0f14] border border-white/10 focus:border-amber-400 text-white text-sm outline-none transition-all">
+        </div>
+
+        <button type="submit" id="submitBtn" class="w-full py-4 rounded-xl bg-amber-500 hover:bg-amber-400 text-black font-bold text-sm tracking-wider uppercase transition-all shadow-[0_0_25px_rgba(245,158,11,0.3)]">
+          Confirm & Dispatch via WhatsApp
+        </button>
+
+        <div class="text-center pt-2">
+          <p class="text-xs text-slate-400">
+            Prefer direct chat? 
+            <a href="https://wa.me/919505552202?text=Hello%20Lighting%20Craft%2C%20I%20would%20like%20to%20inquire%20about%20a%20site%20inspection." target="_blank" rel="noopener noreferrer" class="text-amber-400 underline font-semibold ml-1">
+              Click here to chat immediately on WhatsApp
+            </a>
+          </p>
+        </div>
+      </form>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="py-12 px-6 border-t border-white/10 text-xs text-slate-400 bg-[#0e141c]/50">
+    <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6 text-center md:text-left">
+      <div>
+        <span class="text-white font-bold text-sm block">Lighting Craft Services</span>
+        <span>Engineering, Architectural Lighting & Civil Infrastructure</span>
+      </div>
+      <div>
+        <a href="mailto:lightingcraftservices@gmail.com" class="text-amber-400 hover:underline font-mono">
+          lightingcraftservices@gmail.com
+        </a>
+        <span class="mx-2">•</span>
+        <span>Mumbai • Hyderabad</span>
+      </div>
+      <div class="text-slate-500 text-[11px]">
+        In loving memory of <span class="text-amber-400/90 font-medium">Late Farooq Shaikh</span>
+      </div>
+    </div>
+  </footer>
+
+  <!-- VERIFIED FORM SCRIPT -->
+  <script>
+    document.getElementById('bookingForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      
+      var name = document.getElementById('clientName').value.trim();
+      var phone = document.getElementById('clientPhone').value.trim();
+      var dateVal = document.getElementById('inspectionDate').value.trim();
+      var service = document.getElementById('serviceType').value;
+      var address = document.getElementById('siteAddress').value.trim();
+
+      if (!name || !phone || !dateVal || !address) {
+        alert("Please complete all fields to schedule an inspection.");
+        return;
+      }
+
+      var rawMessage = 
+        "*NEW SITE INSPECTION REQUEST*\n" +
+        "----------------------------------------\n" +
+        "*Business:* Lighting Craft Services\n" +
+        "*Client:* " + name + "\n" +
+        "*Phone:* " + phone + "\n" +
+        "*Vertical:* " + service + "\n" +
+        "*Inspection Date:* " + dateVal + "\n" +
+        "*Location:* " + address + "\n" +
+        "----------------------------------------\n" +
+        "_Dispatched via Lighting Craft Web Portal_";
+
+      var targetPhone = "919505552202";
+      var encodedText = encodeURIComponent(rawMessage);
+      var whatsappUrl = "https://wa.me/" + targetPhone + "?text=" + encodedText;
+
+      window.location.assign(whatsappUrl);
+    });
+  </script>
+
+</body>
+</html>
